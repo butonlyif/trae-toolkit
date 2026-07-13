@@ -67,7 +67,8 @@ Builder→Optimizer→Tester 全部通过后，你来收尾：
 3. 更新项目文档（用户手册、API 文档、教程等）
 4. 检查断链
 5. 更新知识库（如有跨项目通用经验）
-6. 汇报 PM
+6. 如需导出交付物，调用 `trae-word` 或 `trae-ppt` Skill
+7. 汇报 PM
 
 ## 守则
 
