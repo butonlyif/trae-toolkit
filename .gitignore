@@ -13,3 +13,7 @@
 # Thumbnails
 Thumbs.db
 ehthumbs.db
+
+# Generated/temp
+.trae-html-share-packages/
+role-assignment-workflow/
